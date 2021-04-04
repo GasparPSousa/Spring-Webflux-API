@@ -17,3 +17,6 @@
  para listar as tabelas criadas:  aws dynamodb list-tables --endpoint-url http://localhost:8000
  
  documentacao gerada pela aplicação: swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html
+
+##### Digital Innovation One - Bootcamp Banco Inter
+
